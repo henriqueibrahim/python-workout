@@ -1,2 +1,2 @@
 # python-workout
-Python exercises from Python Workout by Reuven Lerner
+Exercícios de Python do livro "Python Workout" por Reuven Lerner
