@@ -4,8 +4,8 @@ import random
 def guessing_game():
     number = random.randint(1, 100)
 
-    while True:
-        userNumber = int(input("Guess a number between 1 and 100: "))
+    for x in range(3):
+        userNumber = int(input("Guess a number between 1 and 50: "))
         if userNumber == number:
             print("Just right!")
             break
