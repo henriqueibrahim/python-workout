@@ -6,4 +6,3 @@ def pig_latin(word):
 
 print(pig_latin("acabate"))
 print(pig_latin("melao"))
-
